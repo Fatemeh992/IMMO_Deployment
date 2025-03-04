@@ -1,1 +1,32 @@
+# Byte-compiled files
 __pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs and debug files
+*.log
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Data files
+*.csv
+*.xlsx
+*.json
+
+# Environment variables
+.env
+config.json
+
+# Compiled libraries
+*.so
+*.dll
+*.dylib
